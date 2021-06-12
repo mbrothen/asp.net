@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.960
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MVCRazorDemo", "MVCRazorDemo\MVCRazorDemo.csproj", "{FA2B49DF-66FE-4DD2-8139-AD1CDEBC6A0E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FA2B49DF-66FE-4DD2-8139-AD1CDEBC6A0E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA2B49DF-66FE-4DD2-8139-AD1CDEBC6A0E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA2B49DF-66FE-4DD2-8139-AD1CDEBC6A0E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA2B49DF-66FE-4DD2-8139-AD1CDEBC6A0E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0170EE18-5122-47ED-8878-BFAB2FA77973}
+	EndGlobalSection
+EndGlobal

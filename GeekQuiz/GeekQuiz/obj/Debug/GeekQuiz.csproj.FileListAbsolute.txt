@@ -1,0 +1,2 @@
+C:\Users\mbrot\source\repos\GeekQuiz\GeekQuiz\obj\Debug\GeekQuiz.csprojAssemblyReference.cache
+C:\Users\mbrot\source\repos\GeekQuiz\GeekQuiz\obj\Debug\GeekQuiz.csproj.CoreCompileInputs.cache
